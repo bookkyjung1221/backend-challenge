@@ -51,7 +51,7 @@ func decode(input string) (string, error) {
 }
 
 func main() {
-	var input string
+    var input string
 
     fmt.Print("Input: ")
 
